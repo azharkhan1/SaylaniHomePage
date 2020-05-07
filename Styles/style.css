@@ -6,42 +6,29 @@
           
 }
 
-.ml-auto{
-                font-size:0.9em;
+.top-navbar{
+                background-color:#316DC3;
+                color:white;
 }
 
 
-h2{
-    letter-spacing: 2px;
-    font-size:1.6em;
-}
+
+
+
 
 .icons{
             list-style-type:none;
-}
-
-
-
-i{
+            float:left;
             color:white;
-           
+            
+          
 }
 
 
 
 
 
-.btns{
-            margin-top:5px;
-         
-}
 
-
-
-
-.header-paragraph{
-                    flex-direction: row;
-}
 
 
 .navigation:hover{
@@ -89,13 +76,13 @@ i{
 
 }
 
-.scroll
+.scroll .scroll-text
 {
     background-color: #316DC3;
-    font-size:0.7em;
+    font-size:0.9em;
     margin: 0 auto;
     margin-top:9px;
-    width: 70%;
+    
     color:#fff;
 }
 
@@ -105,7 +92,7 @@ i{
 
 .features{
     background-color:#f7f8fa;
-    padding-bottom: 50px;
+    padding-bottom: 400px;
 }
 
 .iconimage{
@@ -115,10 +102,11 @@ i{
 .section-text{
                     margin-top:20px;
                     margin: 0 auto;
-                    width:60%;
+                   
                     color:rgb(102, 102, 102);
-                    font-size:0.8em;
+                    font-size:1em;
                     text-align:justify;
+                    line-height:1.7;
 }
 
 .Services{
@@ -127,15 +115,15 @@ i{
                width:100%;
              display:inline-block;
              background-color:rgb(12, 87, 192);
-            padding:50px;
+            padding:100px;
+           
              display:flex;
              margin-top:80px
 }
 
-.Service-one{
-            padding:10px;
+.services-one{
+                padding:50px;
 }
-
 
 
 
@@ -151,14 +139,9 @@ i{
 
 .custom
 {
-        margin-left:80px;
+    margin-left:80px;
     margin-top: 40px;
 
-}
-.custom-dev
-{
-    margin-top:40px;
-    
 }
 
 .activity
@@ -175,23 +158,35 @@ i{
 
 }
 
-.activity2
-{
-    display: flex;
-    background-color: #F7F8FA;
-}
+
+
+
 
 .bottom-section{
                     margin-top:80px;
 }
 
 
+
+
+
+
+
+
 .custom-card{
     background-color:#fff;
     margin-left:50px;
     margin-top:50px;
-    margin-right:50px;
-    margin-bottom:50px;
+    box-shadow: 1px 1px #888888;
+  
+}
+
+
+.schemes-cards
+{
+    margin: 0 auto;
+    display:flex;
+    margin-top:50px;
 }
 
 
@@ -212,19 +207,10 @@ i{
             margin-top:30px;
 }
 
-.projects td{
-                padding:10px;
-                
-}
 
-.projects th{
-    color:#316DC3;
-}
 
-.projects{
-                margin-left:5%;
-                
-}
+
+
 
 .image-section{
                 margin-top:80px;
@@ -275,9 +261,7 @@ i{
 
 }
 
-.nav-icons{
-               float:left;
-}
+
 
 .social{
             
@@ -289,11 +273,6 @@ i{
                     float:left;
 }
 
-.footer-paragraph{
-    
-   
-    margin-left:150px;
-}
 
 
 .footer-copyright{
