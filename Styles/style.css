@@ -1,3 +1,7 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
 .header{
             display:flex;
             background-color:#316DC3;
@@ -5,6 +9,9 @@
             
           
 }
+
+
+
 
 .top-navbar{
                 background-color:#316DC3;
@@ -92,7 +99,7 @@
 
 .features{
     background-color:#f7f8fa;
-    padding-bottom: 400px;
+    padding-bottom: 100px;
 }
 
 .iconimage{
@@ -162,9 +169,6 @@
 
 
 
-.bottom-section{
-                    margin-top:80px;
-}
 
 
 
